@@ -1,1 +1,1 @@
-[GitHub CoPilot GenAI Hackathon.pdf](https://github.com/user-attachments/files/17496992/GitHub.CoPilot.GenAI.Hackathon.pdf)
+![Github-VSCode-Copilot-Integration](https://github.com/user-attachments/assets/5ef1356c-f3f3-48a0-9bf2-cd61e8291b8c)

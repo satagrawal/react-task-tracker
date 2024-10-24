@@ -1,3 +1,6 @@
+
+![Problem Statement](https://github.com/user-attachments/assets/33d8773d-a095-49f6-9c99-8a481786c243)
+
 ```mermaid
 graph TD;
     A[User] -->|Interacts with| B[User Interface]
@@ -55,3 +58,6 @@ graph TD;
 5. **Form Component**:
    - Handles user input for adding tasks.
    - Submits the form to add a new task to the state.
+  
+     
+![Github-VSCode-Copilot-Integration](https://github.com/user-attachments/assets/189b24f3-b160-414f-9ff1-96c715ccdf86)
